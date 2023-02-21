@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb1cd00dd99a1e47937a517305a1915, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  _appConfig: {fileID: 11400000, guid: 878502e3eb439d843a81676e02f789b8, type: 2}
+  _sceneConfig: {fileID: 11400000, guid: 31930e3f4e6e6ce46bd9e3f396b66188, type: 2}
+  _networkConfig: {fileID: 11400000, guid: 8fca3b153214ae54080c0fd6d8484bc9, type: 2}
+  _soundConfig: {fileID: 11400000, guid: 6780758867035a44b8d2bf1f59f8d8e3, type: 2}
+  _horseConfigs:
+  - {fileID: 11400000, guid: 70a2cbc6366cb954999c78e2e67cb9f0, type: 2}
+  - {fileID: 11400000, guid: c2fa09f23cc7c534fb64a321333a66a7, type: 2}
+  - {fileID: 11400000, guid: 19001dcfd32da7e45b06fb84d9b623dc, type: 2}
+  - {fileID: 11400000, guid: 7a34762248041e3488fd19c2b5595bb8, type: 2}
