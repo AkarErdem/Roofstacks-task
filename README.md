@@ -7,9 +7,9 @@
 - [Overview](#overview)
 - [Game Mechanics](#gamemechanics)
 - [Features](#features)
-- [TechnologiesUsed](#technologiesused)
-- [InstallationAndSetup](#installationandsetup)
-- [HowToPlay](#howtoplay)
+- [Technologies Used](#technologiesused)
+- [Installation and Setup](#installationandsetup)
+- [How to Play](#howtoplay)
 - [Conclusion](#conclusion)
 
 ## Summary
