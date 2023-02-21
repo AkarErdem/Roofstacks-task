@@ -5,11 +5,11 @@
 ## Table of Contents
 - [Summary](#summary)
 - [Overview](#overview)
-- [Game Mechanics](#game mechanics)
+- [Game Mechanics](#gamemechanics)
 - [Features](#features)
-- [Technologies Used](#technologies used)
-- [Installation and Setup](#installation and setup)
-- [How to Play](#how to play)
+- [Technologies Used](#technologiesused)
+- [Installation and Setup](#installationandsetup)
+- [How to Play](#howtoplay)
 - [Conclusion](#conclusion)
 
 ## Summary
