@@ -45,7 +45,7 @@ Unity (version 2021.3.2f1)
 - C#
 - Photon Pun 2
 - PlayFab
-- Zenject
+- UniRx
 
 ## Installation and Setup
 To install and run the game, follow these steps:
